@@ -1,0 +1,62 @@
+taladro
+https://www.amazon.com.mx/Truper-MOTO-A2-Profesional-Velocidad-Variable/dp/B0169B1P7K/ref=sr_1_27?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1O0WOEQXXSKXC&keywords=mini+taladro&qid=1653533899&sprefix=mini+taladro%2Caps%2C134&sr=8-27
+
+raton teclado
+https://www.amazon.com.mx/Logitech-MK220-Teclado-inal%C3%A1mbricos-espa%C3%B1ol/dp/B0080W1VVC/ref=sr_1_3?keywords=teclado%2By%2Bmouse%2Binalambrico&qid=1653575815&sprefix=tecaldo%2Caps%2C143&sr=8-3&th=1
+
+laptop
+https://www.amazon.com.mx/HP-Laptop-Convert-13-ay1005la-Windows/dp/B09S2Q4JTC/ref=sr_1_1_sspa?keywords=laptop+hp&qid=1653531433&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.a7e2cb0a-2621-45d7-91b0-cec7831d0f99&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVVBBN1BMOUJUNkhVJmVuY3J5cHRlZElkPUEwMDE1NjIxMVBKMTJHVDdMNVpGUiZlbmNyeXB0ZWRBZElkPUEwMjg4MTExMTdQTEtJTTZZWUkzViZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+
+esp32
+https://www.amazon.com.mx/Tresd-NodeMCU-32-Bluetooth-Compatible-arduino/dp/B08DFKCF6H/ref=asc_df_B08DFKCF6H/?tag=gledskshopmx-20&linkCode=df0&hvadid=451018228067&hvpos=&hvnetw=g&hvrand=3183082942432848698&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20715&hvtargid=pla-942360502550&psc=1
+
+sensor oxigeno
+https://hetpro-store.com/sen0237-a/?gclid=CjwKCAjwp7eUBhBeEiwAZbHwkRzU6I0NL-3gIB_JD_4y5uYlyyOQpHgTvr5WnsdWkLErZPbMiqrDaxoCkW8QAvD_BwE
+
+raspberry
+https://www.amazon.com.mx/Raspberry-Pi-8GB-Quad-core-Processor/dp/B08Q8L3B9D/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=R7X6F65H9TBZ&keywords=raspberry+pi+4+8gb&qid=1653576387&s=electronics&sprefix=raspberry+pi+4+8gb%2Celectronics%2C131&sr=1-3&ufe=app_do%3Aamzn1.fos.a7e2cb0a-2621-45d7-91b0-cec7831d0f99
+
+Carcasa raspberry
+https://www.amazon.com.mx/GeeekPi-Raspberry-Ventilador-refrigeraci%C3%B3n-Transparente/dp/B07TXSQ47L/ref=sr_1_5?crid=2E9UV84PRFC73&keywords=carcasa+raspberry+pi+4&qid=1653531735&s=electronics&sprefix=carc%2Celectronics%2C144&sr=1-5
+
+pantalla raspberry
+https://www.amazon.com.mx/Monitor-IPS-Raspberry-pantalla-10-1/dp/B08FHF7H3L/ref=sr_1_2?crid=1BYZZUKF7WVYG&keywords=pantalla+para+raspberry+pi+4&qid=1653576528&s=electronics&sprefix=pantalla+para+%2Celectronics%2C141&sr=1-2&ufe=app_do%3Aamzn1.fos.a7e2cb0a-2621-45d7-91b0-cec7831d0f99
+
+Adaptador ESP32
+https://www.amazon.com.mx/SongHe-Adaptador-convertidor-Arduino-Unidades/dp/B07XF2SLQ1/ref=asc_df_B07XF2SLQ1/?tag=gledskshopmx-20&linkCode=df0&hvadid=547139760900&hvpos=&hvnetw=g&hvrand=7968700417681167960&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073959&hvtargid=pla-897976212931&psc=1
+
+pvc
+https://www.amazon.com.mx/L%C3%A1mina-PVC-expandida-se%C3%B1alizaci%C3%B3n-serigrafiada/dp/B079NWDW8F/ref=asc_df_B079NWDW8F/?tag=gledskshopmx-20&linkCode=df0&hvadid=451040595780&hvpos=&hvnetw=g&hvrand=3456626561046438667&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073959&hvtargid=pla-829721925731&psc=1
+
+Arduino mega
+https://www.amazon.com.mx/tresd-print-tech-Desarrollo-Compatible/dp/B08J4KGYW2/ref=sr_1_25?crid=3A4W0U5DT9M8S&keywords=arduino+mega+2560&qid=1653576693&s=electronics&sprefix=arduino+mega%2Celectronics%2C136&sr=1-25
+
+Sensor temperatura
+https://articulo.mercadolibre.com.mx/MLM-754232572-termopar-tipo-k-sensor-temperatura-modulo-max6675-_JM?matt_tool=91188883&matt_word=&matt_source=google&matt_campaign_id=15698047816&matt_ad_group_id=134599571474&matt_match_type=&matt_network=g&matt_device=c&matt_creative=571866623918&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=117474830&matt_product_id=MLM754232572&matt_product_partition_id=1636403226639&matt_target_id=aud-1574484920380:pla-1636403226639&gclid=CjwKCAjwyryUBhBSEiwAGN5OCBtircuJQOTJtQr_ec416lggnbjVURJlsCBSHOqZGmy6D0k421HOfBoC9iUQAvD_BwE
+
+Sensor monoxido
+https://www.amazon.com.mx/AZUOCN-anal%C3%B3gico-Arduino-Raspberry-ESP8266/dp/B09DVM5BB8/ref=asc_df_B09DVM5BB8/?tag=gledskshopmx-20&linkCode=df0&hvadid=547386095671&hvpos=&hvnetw=g&hvrand=16497010995651170883&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073959&hvtargid=pla-1646220851442&psc=1
+
+sensor humedad
+https://www.amazon.com.mx/capacitivo-resistente-corrosi%C3%B3n-detecci%C3%B3n-unidades/dp/B07SYBSHGX/ref=asc_df_B07SYBSHGX/?tag=gledskshopmx-20&linkCode=df0&hvadid=360862795141&hvpos=&hvnetw=g&hvrand=4354476084451110589&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073959&hvtargid=pla-796035731645&psc=1
+
+Sensor intensidad luminosa
+https://articulo.mercadolibre.com.mx/MLM-640937024-modulo-sensor-de-intensidad-luminosa-luz-gy-302-bh1750-_JM?matt_tool=91188883&matt_word=&matt_source=google&matt_campaign_id=15698047816&matt_ad_group_id=134599571474&matt_match_type=&matt_network=g&matt_device=c&matt_creative=571866623918&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=164788322&matt_product_id=MLM640937024&matt_product_partition_id=1636403226639&matt_target_id=aud-1574484920380:pla-1636403226639&gclid=CjwKCAjwyryUBhBSEiwAGN5OCPy73QzM2J3AQ4IXUy4lBdGIH99LYqEFAI5HlqyCTIeT5zB55ZxxzRoC2tYQAvD_BwE
+
+relevador
+https://articulo.mercadolibre.com.mx/MLM-657068029-modulo-relevador-relay-1-canal-5v-_JM?matt_tool=91188883&matt_word=&matt_source=google&matt_campaign_id=15698047816&matt_ad_group_id=134599571474&matt_match_type=&matt_network=g&matt_device=c&matt_creative=571866623918&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=117474830&matt_product_id=MLM657068029&matt_product_partition_id=1636403226639&matt_target_id=aud-1574484920380:pla-1636403226639&gclid=CjwKCAjwyryUBhBSEiwAGN5OCGfvuOHwiHkVVgfuahrpZeykeYjTyZhtfsgBUWti0UmkjMxRKSvImhoCVZ0QAvD_BwE
+
+bomba de agua
+https://www.amazon.com.mx/Pretul-BOAP-1-Bomba-Perif%C3%A9rica-para/dp/B00UY26BZM/ref=sr_1_1?adgrpid=139776738464&gclid=CjwKCAjwyryUBhBSEiwAGN5OCGx4v9w9FF-9umvWrhvOGJdkx3yfzZs9obE2lTH0dZkXOg7yuMahxRoCDuAQAvD_BwE&hvadid=580504672223&hvdev=c&hvlocphy=9073959&hvnetw=g&hvqmt=b&hvrand=1005586344226838452&hvtargid=kwd-474835951124&hydadcr=25227_10290859&keywords=bomba%2Bperif%C3%A9rica%2B1%2F2%2Bhp&qid=1653577565&s=tools&sr=1-1&th=1
+
+brocas
+https://www.amazon.com.mx/destornillador-perforaci%C3%B3n-pl%C3%A1sticos-ladrillo-almacenamiento/dp/B09KB7QLHJ/ref=sr_1_8?crid=3TFKQI2CQMQW7&keywords=juego+de+brocas&qid=1653577648&s=tools&sprefix=juego+%2Chi%2C158&sr=1-8
+
+monitor
+https://www.amazon.com.mx/SAMSUNG-pulgadas-1920x1080-FreeSync-LC27R500FHLXZX/dp/B07Z8PNWZT/ref=sr_1_18_sspa?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3APEX35LEHVW4&keywords=monitores+hp+26+pulgadas&qid=1653577834&sprefix=monitores+hp+26+pulgadas%2Caps%2C120&sr=8-18-spons&ufe=app_do%3Aamzn1.fos.a7e2cb0a-2621-45d7-91b0-cec7831d0f99&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUjM3OUlZWTZFRVdVJmVuY3J5cHRlZElkPUEwMDM1ODM0MUIxT0tCR0ZWSVVCMCZlbmNyeXB0ZWRBZElkPUEwNDMwNzIzMkdFVFg0NkVLVDFOSyZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+
+sd
+https://www.amazon.com.mx/ADATA-AUSDX128GUICL10A1-RA1-Memoria-MicroSD-Premier/dp/B077QJ1HVT/ref=asc_df_B077QJ1HVT/?tag=gledskshopmx-20&linkCode=df0&hvadid=295434261084&hvpos=&hvnetw=g&hvrand=12936706531810508140&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20715&hvtargid=pla-522104858282&th=1
+
+silicon
+https://www.amazon.com.mx/Silicon-Sista-F121-Policarbonato-Transparente/dp/B08GSW6ZQQ/ref=asc_df_B08GSW6ZQQ/?tag=gledskshopmx-20&linkCode=df0&hvadid=451104134351&hvpos=&hvnetw=g&hvrand=9828553986318027071&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20715&hvtargid=pla-983435035086&psc=1

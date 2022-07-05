@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+</style>
+</head>
+<body>
+
+<p id="vari"></p>
+<p id="demo"></p>
+
+<p id="rest"></p>
+
+<script>
+
+
+var today = new Date();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+
+var periodo = today.getTime() + 3.5 * 3600000;
+
+
+    var h = today.getHours();
+    var m = today.getMinutes();
+    var s = today.getSeconds();
+    var mS = "";
+    var sS = "";
+    if (m < 10)
+        mS = "0" + m;
+    else
+        mS = "" + m;
+
+    periodoT = new Date(periodo);
+    var hP = periodoT.getHours();
+    var mP = periodoT.getMinutes();
+    var sP = periodoT.getSeconds();
+    var mSP = "";
+    var sP = "";
+    if (mP < 10)
+        mSP = "0" + mP;
+    else
+        mSP = "" + mP;
+    //h + ":" + mSP;
+
+var resta = periodo - today.getTime();
+var horasDif = resta / 3600000;
+document.getElementById("rest").innerHTML = Math.floor(horasDif) + ":" + (horasDif % 60 - Math.floor(horasDif)) * 60;
+
+</script>
+
+</body>
+</html>
